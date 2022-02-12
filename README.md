@@ -16,12 +16,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://user-images.githubusercontent.com/57969388/153656224-3d282409-5109-4c2b-b365-27af9c52f2ac.gif" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/153692894-bdb16544-b9bb-49c9-86bc-310234a3824b.gif" width=250><br>
 
 ### Notes
 Challenges: I was having trouble installing the pod for the project. 
 I then figured out that I didn't have CocoaPods installed which I installed using homebrew. 
+I was also having issues implementing the bonus feature because for some reason it wasn't aligning correctly.
+After a few trial and error, I got it to work.
