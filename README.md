@@ -34,9 +34,9 @@ A few screenshots of the app running on various device sizes and orientations:
 
 A few screenshots of the app running on my own device (iPhone 11 Pro):
 
-<img src="(https://user-images.githubusercontent.com/57969388/154625980-456e5a6c-5507-4114-a1f0-27111d83b1bb.png)
-![myApp](https://user-images.githubusercontent.com/57969388/154625983-e97aacb4-a412-42d2-85cb-5108b3bbc0f9.png)
-![myAppIcon](https://user-images.githubusercontent.com/57969388/154625988-4835aa97-fbee-4901-91b7-9d6b11982583.png)"width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154625980-456e5a6c-5507-4114-a1f0-27111d83b1bb.png" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154625983-e97aacb4-a412-42d2-85cb-5108b3bbc0f9.png" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154625988-4835aa97-fbee-4901-91b7-9d6b11982583.png" width=250><br>
 
 ### Notes
 Challenges: I was having trouble installing the pod for the project. 
