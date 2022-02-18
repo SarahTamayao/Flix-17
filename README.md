@@ -26,11 +26,11 @@ Here is a GIF of the app running on the iPhone 11:
 
 A few screenshots of the app running on various device sizes and orientations:
 
-![iPhone 13 Portrait](https://user-images.githubusercontent.com/57969388/154624983-51da7c1b-a03a-496e-a612-82019cf7dfe8.png)
-![iPhone 8 Portrait](https://user-images.githubusercontent.com/57969388/154624984-1e32fd68-edc6-4dbe-b78d-435cf3756bf6.png)
-![iPhone 11 Pro Portrait](https://user-images.githubusercontent.com/57969388/154624986-7cadd917-8c7b-4689-b2de-7dc7ce51729c.png)
-![iPhone 8 Landscape](https://user-images.githubusercontent.com/57969388/154624979-f7722c6d-46f2-4c7d-9365-889953412e18.png)
-![iPhone 13 Landscape](https://user-images.githubusercontent.com/57969388/154624985-44c42888-4da6-4bc2-97af-6e4848c47528.png)
+<img src="https://user-images.githubusercontent.com/57969388/154624983-51da7c1b-a03a-496e-a612-82019cf7dfe8.png" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154624984-1e32fd68-edc6-4dbe-b78d-435cf3756bf6.png" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154624986-7cadd917-8c7b-4689-b2de-7dc7ce51729c.png" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154624979-f7722c6d-46f2-4c7d-9365-889953412e18.png" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154624985-44c42888-4da6-4bc2-97af-6e4848c47528.png" width=250><br>
 
 A few screenshots of the app running on my own device (iPhone 11 Pro):
 
