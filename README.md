@@ -24,12 +24,12 @@ Here is a GIF of the app running on the iPhone 11:
 
 <img src="https://user-images.githubusercontent.com/57969388/154624817-a138d7ae-1ddb-4bad-85ab-b520e8f1b59e.gif" width=250><br>
 
-A few screenshots of the app running on various device sizes and orientations:
+Screenshots of the app running on various device sizes and orientations (iPhone 8,11,13):
 
 ![iPhone 8,11,13 Portrait](https://user-images.githubusercontent.com/57969388/154763093-dceae76f-cf3c-4d0e-ad13-61c7d858be9e.png)
 ![iPhone 8,11,13 Landscape](https://user-images.githubusercontent.com/57969388/154763129-7f51de33-7471-4e76-8e9d-81e29b811aff.png)
 
-A few screenshots of the app running on my own device (iPhone 11 Pro):
+Screenshots of the app running on my own device (iPhone 11 Pro):
 
 <img src="https://user-images.githubusercontent.com/57969388/154625980-456e5a6c-5507-4114-a1f0-27111d83b1bb.png" width=250><br> 
 <img src="https://user-images.githubusercontent.com/57969388/154625983-e97aacb4-a412-42d2-85cb-5108b3bbc0f9.png" width=250><br> 
