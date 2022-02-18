@@ -26,6 +26,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         let request = URLRequest(url: url, cachePolicy: .reloadIgnoringLocalCacheData, timeoutInterval: 10)
         let session = URLSession(configuration: .default, delegate: nil, delegateQueue: OperationQueue.main)
         let task = session.dataTask(with: request) { (data, response, error) in
+            
              // This will run when the network request returns
              if let error = error {
                     print(error.localizedDescription)
@@ -69,7 +70,30 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         
         
         return cell
+        
     }
+        
+            // MARK: - Navigation
+
+            // In a storyboard-based application, you will often want to do a little preparation before navigation
+            override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+                // Get the new view controller using segue.destination.
+                // Pass the selected object to the new view controller.
+                        
+        
+        // Find the selected movie
+        let cell = sender as! UITableViewCell
+                let indexPath = tableView.indexPath(for:cell)!
+                let movie = movies[indexPath.row]
+        
+        // Pass the selected movie to the details view controller
+                let detailsViewController = segue.destination as! MovieDetailsViewController
+                detailsViewController.movie = movie
+                
+                tableView.deselectRow(at: indexPath, animated: true) // Deselects a row when you return from navigation
+        
+        
+}
 
 
 }
