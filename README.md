@@ -20,7 +20,16 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://user-images.githubusercontent.com/57969388/153692894-bdb16544-b9bb-49c9-86bc-310234a3824b.gif" width=250><br>
+Here is a GIF of the app running on the iPhone 11:
+<img src="https://user-images.githubusercontent.com/57969388/154624817-a138d7ae-1ddb-4bad-85ab-b520e8f1b59e.gif" width=250><br>
+
+A few screenshots of the app running on various device sizes and orientations:
+![iPhone 8 Landscape](https://user-images.githubusercontent.com/57969388/154624979-f7722c6d-46f2-4c7d-9365-889953412e18.png)
+![iPhone 13 Portrait](https://user-images.githubusercontent.com/57969388/154624983-51da7c1b-a03a-496e-a612-82019cf7dfe8.png)
+![iPhone 8 Portrait](https://user-images.githubusercontent.com/57969388/154624984-1e32fd68-edc6-4dbe-b78d-435cf3756bf6.png)
+![iPhone 13 Landscape](https://user-images.githubusercontent.com/57969388/154624985-44c42888-4da6-4bc2-97af-6e4848c47528.png)
+![iPhone 11 Pro Portrait](https://user-images.githubusercontent.com/57969388/154624986-7cadd917-8c7b-4689-b2de-7dc7ce51729c.png)
+
 
 ### Notes
 Challenges: I was having trouble installing the pod for the project. 
