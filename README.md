@@ -26,11 +26,17 @@ Here is a GIF of the app running on the iPhone 11:
 
 A few screenshots of the app running on various device sizes and orientations:
 
-<img src="https://user-images.githubusercontent.com/57969388/154624983-51da7c1b-a03a-496e-a612-82019cf7dfe8.png" width=250><br> <img src="https://user-images.githubusercontent.com/57969388/154624984-1e32fd68-edc6-4dbe-b78d-435cf3756bf6.png" width=250><br> <img src="https://user-images.githubusercontent.com/57969388/154624986-7cadd917-8c7b-4689-b2de-7dc7ce51729c.png" width=250><br> <img src="https://user-images.githubusercontent.com/57969388/154624979-f7722c6d-46f2-4c7d-9365-889953412e18.png" width=250><br> <img src="https://user-images.githubusercontent.com/57969388/154624985-44c42888-4da6-4bc2-97af-6e4848c47528.png" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154624983-51da7c1b-a03a-496e-a612-82019cf7dfe8.png" width=250><br> 
+<img src="https://user-images.githubusercontent.com/57969388/154624984-1e32fd68-edc6-4dbe-b78d-435cf3756bf6.png" width=250><br> 
+<img src="https://user-images.githubusercontent.com/57969388/154624986-7cadd917-8c7b-4689-b2de-7dc7ce51729c.png" width=250><br> 
+<img src="https://user-images.githubusercontent.com/57969388/154624979-f7722c6d-46f2-4c7d-9365-889953412e18.png" width=250><br> 
+<img src="https://user-images.githubusercontent.com/57969388/154624985-44c42888-4da6-4bc2-97af-6e4848c47528.png" width=250><br>
 
 A few screenshots of the app running on my own device (iPhone 11 Pro):
 
-<img src="https://user-images.githubusercontent.com/57969388/154625980-456e5a6c-5507-4114-a1f0-27111d83b1bb.png" width=250><br> <img src="https://user-images.githubusercontent.com/57969388/154625983-e97aacb4-a412-42d2-85cb-5108b3bbc0f9.png" width=250><br> <img src="https://user-images.githubusercontent.com/57969388/154625988-4835aa97-fbee-4901-91b7-9d6b11982583.png" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154625980-456e5a6c-5507-4114-a1f0-27111d83b1bb.png" width=250><br> 
+<img src="https://user-images.githubusercontent.com/57969388/154625983-e97aacb4-a412-42d2-85cb-5108b3bbc0f9.png" width=250><br> 
+<img src="https://user-images.githubusercontent.com/57969388/154625988-4835aa97-fbee-4901-91b7-9d6b11982583.png" width=250><br>
 
 ### Notes
 Challenges: I was having trouble installing the pod for the project. 
