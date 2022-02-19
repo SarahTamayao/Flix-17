@@ -11,11 +11,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="https://user-images.githubusercontent.com/57969388/154765774-6be77b10-4cb2-4cd5-a0b3-8fce2d7cef86.gif" width=250><br>
+<img src="https://user-images.githubusercontent.com/57969388/154784517-4fae0164-0553-40b3-8755-2a1ce7d3670d.gif" width=250><br>
 
 ### Notes
 I had an issue where the MovieGridViewController wasn't properly connecting to the Navigation Controller. 
