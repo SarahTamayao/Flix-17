@@ -1,5 +1,5 @@
 //
-//  MovieDetailsViewController.swift
+//  SuperheroDetailsViewController.swift
 //  Flix
 //
 //  Created by Celeste Urena on 2/18/22.
@@ -8,8 +8,7 @@
 import UIKit
 import AlamofireImage
 
-class MovieDetailsViewController: UIViewController {
-    
+class SuperheroDetailsViewController: UIViewController {
     @IBOutlet weak var backdropView: UIImageView!
     @IBOutlet weak var posterView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
@@ -21,7 +20,6 @@ class MovieDetailsViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        
         titleLabel.text = movie["title"] as? String
         titleLabel.sizeToFit()
         
@@ -40,8 +38,8 @@ class MovieDetailsViewController: UIViewController {
         backdropView.af.setImage(withURL: backdropUrl)
     }
     
-/*
-    
+
+    /*
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation

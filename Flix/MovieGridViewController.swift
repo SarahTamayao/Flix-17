@@ -24,10 +24,10 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
         let layout = collectionView.collectionViewLayout as! UICollectionViewFlowLayout
         
         // Layout configurations
-        layout.minimumLineSpacing = 4 //Controls the spacing between the rows
-        layout.minimumInteritemSpacing = 4
+        layout.minimumLineSpacing = 2 //Controls the spacing between the rows
+        layout.minimumInteritemSpacing = 2
         
-        let width = (view.frame.size.width - layout.minimumInteritemSpacing * 2) / 3
+        let width = (view.frame.size.width - layout.minimumInteritemSpacing * 2) / 2
         layout.itemSize = CGSize(width: width, height: width * 3 / 2)
 
         // Do any additional setup after loading the view.
@@ -64,7 +64,7 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
         
         let movie = movies[indexPath.item] // Collection view has an item now row/cells
         
-        let baseUrl = "https://image.tmdb.org/t/p/w185"
+        let baseUrl = "https://image.tmdb.org/t/p/w780"
         let posterPath = movie["poster_path"] as! String
         let posterUrl = URL(string: baseUrl + posterPath)!
         
@@ -74,14 +74,26 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
         
         return cell
     }
-    /*
+    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
+        
+        // Find the selected movie
+        let cell = sender as! UICollectionViewCell
+        let indexPath = collectionView.indexPath(for:cell)!
+        let movie = movies[indexPath.row]
+        
+        // Pass the selected movie to the details view controller
+        let detailsViewController = segue.destination as! SuperheroDetailsViewController
+        detailsViewController.movie = movie
+                
+        collectionView.deselectItem(at: indexPath, animated: true) // Deselects an item when you return from navigation
+        
     }
-    */
+    
 
 }
